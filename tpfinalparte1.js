@@ -2,6 +2,7 @@
 //Comisión 2
 //Diaz Valentina Legajo: 119013/7
 //Laguto Vladimir Legajo: 119061/6
+// mi parte del video: https://youtu.be/o4OKFUUX99k
 
 let imagen1,pantalla1,pantalla2,pantalla3_1,pantalla3_2,pantalla4_1,pantalla4_2,pantalla4_3,pantalla5_1,pantalla5_2,pantalla5_3,pantalla6,pantalla7_1,pantalla7_2,pantalla7_3;
 let pantalla = 0;
