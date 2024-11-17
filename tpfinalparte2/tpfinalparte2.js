@@ -1,4 +1,10 @@
+// TPfinalParte2
+//Comisión 2
+//Diaz Valentina Legajo: 119013/7
+//Laguto Vladimir Legajo: 119061/6
+
 //falta hacer arreglo con cada imagen de la pantalla (menos sprite)
+//falta pestañas dividiendo las clases
 
 let pantalla = 1; // 1: inicio, 2: instrucciones, 3: minijuego, 4: resultado(ganar o perder), 5: créditos
 let pancho;
