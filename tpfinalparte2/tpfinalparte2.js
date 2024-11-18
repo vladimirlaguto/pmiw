@@ -3,6 +3,8 @@
 //Diaz Valentina Legajo: 119013/7
 //Laguto Vladimir Legajo: 119061/6
 
+//mi parte del video: https://www.youtube.com/watch?v=UgUhqzfjv_g
+
 //falta hacer arreglo con cada imagen de la pantalla (menos sprite)
 //falta pestañas dividiendo las clases
 
