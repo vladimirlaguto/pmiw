@@ -3,6 +3,8 @@
 // Diaz Valentina Legajo: 119013/7
 // Laguto Vladimir Legajo: 119061/6
 
+//video explicativo: https://www.youtube.com/watch?v=HKuvOc0MViM
+
 let juego; // Variable para la clase Juego
 let pantallas = []; // Arreglo de pantallas y sprite
 
